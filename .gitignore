@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+./CSharp6_Features-Solu/CSharp6-Features-pj/bin/
+./CSharp6_Features-Solu/CSharp6-Features-pj/obj/
+./CSharp6_Features-Solu/.vs/
+./CSharp6_Features-Solu/.vscode/
+
 # User-specific files
 *.suo
 *.user
