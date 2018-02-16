@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/CSharp6_Features-Solu/CSharp6-Features-pj/CSharp6-Features-pj.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
